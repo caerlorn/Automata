@@ -1,4 +1,4 @@
-A Turing Machine that accepts palindrome strings over the alphabet {a,b} and the C++ implementation.
+A Turing Machine that accepts palindrome strings over the alphabet {a,b} and the C++ implementation of it.
 
 State Diagram
 ------
